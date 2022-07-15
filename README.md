@@ -7,5 +7,5 @@
 - 🏫 21岁，北邮大三在读。
 - fill my life with joy.
 - 不想和谁比较
-- 🖊 Occasionally write a blog (all in chinese)[https://leeshy-tech.github.io/](https://leeshy-tech.github.io/)
+- 🖊 write blogs occasionally (all in chinese)[https://leeshy-tech.github.io/](https://leeshy-tech.github.io/)
 - 🖊 偶尔写点博客（其实就是笔记）
